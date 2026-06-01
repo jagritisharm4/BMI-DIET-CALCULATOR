@@ -2,6 +2,12 @@
 
 A modern BMI Calculator built using HTML, CSS, and JavaScript.
 
+
+## Preview
+
+![BMI Calculator](images/screenshot.png)
+
+
 ## Features
 
 - BMI calculation
