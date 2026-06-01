@@ -5,7 +5,11 @@ A modern BMI Calculator built using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![BMI Calculator](image.png)
+![BMI Calculator](image.png) 
+
+## Live Demo
+
+https://jagritisharm4.github.io/BMI-DIET-CALCULATOR/
 
 ## Features
 
